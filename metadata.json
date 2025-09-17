@@ -1,0 +1,5 @@
+{
+  "name": "AI Blog Weaver",
+  "description": "An AI-powered application that generates complete blog posts with a title, content, and a custom hero image based on a user-provided topic.",
+  "requestFramePermissions": []
+}
